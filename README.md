@@ -40,4 +40,4 @@ Video Sonrası İşlemler için:
 
 `cd video_sonrasi_islemler`
 
-`python video_islemleri`
+`python video_islemleri.py`
